@@ -1,0 +1,7 @@
+Stap 01: change Image formet -> .bmp
+Stap 02: Create  Text Document file
+Stap 03: Type code => 
+                    [autorun]
+                    icon = "image name".bmp
+                Ex: icon = 01.bmp 
+Stap 04: Move to pendrive storage .
